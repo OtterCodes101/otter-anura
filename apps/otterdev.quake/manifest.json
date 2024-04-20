@@ -5,6 +5,6 @@
 	"desc": "Quake for anuraOS. WASM port by GMH-Code.",
 	"package": "otterdev.quake",
 	"data": "app.zip",
-	"version": "v1.0.0",
+	"version": "1.0.1",
 	"category": "game"
 }
